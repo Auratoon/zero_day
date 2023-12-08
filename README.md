@@ -1,1 +1,1 @@
-Setting up your local coding environment
+Project "Setting up your local coding environment"
